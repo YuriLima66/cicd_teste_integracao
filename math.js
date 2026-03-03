@@ -13,3 +13,11 @@ function divide(a, b) {
 function mutiply(a, b) {
     return a * b;
 }
+
+
+module.exports = {
+    add,
+    subtract,
+    divide,
+    mutiply
+}
